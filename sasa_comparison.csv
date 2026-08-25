@@ -1,0 +1,7 @@
+PDB,Identity,Mutation,Total_SASA_A2,Delta_SASA_vs_WT,Mutation_Site_Residue,Mutation_Site_REL,Mutation_Site_ABS,Phe114_REL,Core_Leu99_REL,Status,Notes
+3FA0,WT,None,8704.8,0,Leu99,0.1,0.16,18.9,0.1,Baseline,Atomic resolution structure (Mooers 2009)
+7L37,L99A,Leu99->Ala,8946.9,242.1,Ala99,15.2,16.51,17.7,15.2,DYNAMIC_VALIDATED,Apo room-temperature; persistent buried cavity
+3F8V,R96H,Arg96->His,8740.3,35.5,His96,22.6,41.31,17.3,0.0,ENERGETIC_VALIDATED,Atomic resolution; surface mutation
+1L83,L99A+Benz,L99A+benzene,8581.1,-123.7,Ala99,15.1,16.45,19.8,15.1,DYNAMIC_VALIDATED,Cavity persists even with ligand bound
+1L85,F153A,Phe153->Ala,8422.6,-282.2,Ala153,4.5,4.88,21.5,1.8,PREDICTED_ENERGETIC,More compact than WT; local accommodation
+1QUD,L99G,Leu99->Gly,8780.9,76.1,Gly99,19.9,16.14,19.9,3.18,PREDICTED_ENERGETIC,Solvent-accessible declivity; glycine backbone
