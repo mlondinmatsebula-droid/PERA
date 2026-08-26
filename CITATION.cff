@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use PERA, please cite it as below."
+title: "PERA: Perturbation-Encoded Relaxation Analysis"
+version: 2.3
+date-released: 2026-08-26
+authors:
+  - family-names: "[Your Last Name]"
+    given-names: "[Your First Name]"
+repository-code: "https://github.com/[your-username]/PERA"
+license: MIT
+keywords:
+  - protein dynamics
+  - NMR relaxation dispersion
+  - conformational exchange
+  - allostery
+  - structural biology
+  - T4 lysozyme
+abstract: >
+  A causal framework connecting local structural perturbations to
+  conformational dynamics via structural debt and cooperative accommodation.
+  Includes two locked prospective predictions for T4 lysozyme F153A and L99G.
