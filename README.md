@@ -102,7 +102,7 @@ If you use PERA in your research, please cite:
 @software{pera2026,
   title = {PERA: Perturbation-Encoded Relaxation Analysis},
   year = {2026},
-  url = {https://github.com/[your-username]/PERA},
+  url = {https://github.com/[mlondinmatsebula-droid]/PERA},
   note = {v2.3 — Two locked prospective predictions for T4 lysozyme dynamics}
 }
 ```
@@ -117,6 +117,6 @@ MIT License — see [LICENSE](LICENSE).
 
 ## Contact
 
-For questions about the framework or predictions, open an issue or contact [your-email].
+For questions about the framework or predictions, open an issue or contact [mlondin.matsebula@gmail.com].
 
 For experimental collaboration inquiries, see [`docs/outreach.md`](docs/outreach.md).
