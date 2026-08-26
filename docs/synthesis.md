@@ -160,25 +160,6 @@ Glycine has no side chain, so its REL reflects backbone exposure. **Direct REL c
 
 ---
 
-## Immediate Next Steps
-
-### This Week
-1. **Search BMRB for F153A and L99G CPMG data.** If none exists, the predictions remain genuinely prospective.
-2. **Email Guillaume Bouvignies (ENS Paris).** Lead with the SASA triad. Attach the six-structure figure.
-3. **Create GitHub repository.** Upload: locked predictions, case table, figures, synthesis documents.
-
-### This Month
-4. **Install FreeSASA locally** (pip install freesasa) to compute per-residue SASA systematically.
-5. **Search for A98L, V149G, R96P structures** and run them through FreeSASA to bracket the threshold.
-6. **Draft blog post** leading with the L99A vs F153A vs L99G puzzle.
-
-### This Quarter
-7. **Learn Rosetta** to compute strain energy after local minimization (true C_E).
-8. **Implement algorithmic CAN** — define the minimum cooperative residue set computationally.
-9. **Contact Venditti (Iowa State)** about CPMG feasibility for F153A/L99G.
-
----
-
 ## Files
 
 | File | Description |
