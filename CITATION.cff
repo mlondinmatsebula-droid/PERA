@@ -6,7 +6,7 @@ date-released: 2026-08-26
 authors:
   - family-names: "[Your Last Name]"
     given-names: "[Your First Name]"
-repository-code: "https://github.com/[your-username]/PERA"
+repository-code: "https://github.com/mlondinmatsebula-droid/PERA"
 license: MIT
 keywords:
   - protein dynamics
