@@ -164,10 +164,10 @@ Glycine has no side chain, so its REL reflects backbone exposure. **Direct REL c
 
 | File | Description |
 |------|-------------|
-| [PERA_six_structure_final.png](sandbox:///mnt/agents/output/PERA_six_structure_final.png) | Six-structure quantitative figure |
-| [PERA_predictions_locked_v1.2.json](sandbox:///mnt/agents/output/PERA_predictions_locked_v1.2.json) | Locked predictions with structural evidence |
-| [PERA_SASA_quantitative_map.png](sandbox:///mnt/agents/output/PERA_SASA_quantitative_map.png) | Four-panel SASA analysis |
-| [PERA_v2.3_SASA_synthesis.md](sandbox:///mnt/agents/output/PERA_v2.3_SASA_synthesis.md) | Detailed synthesis document |
+| [PERA_six_structure_final.png](figures/six_structure_sasa.png) | Six-structure quantitative figure |
+| [PERA_predictions_locked_v1.2.json](predictions/locked_v1.2.json) | Locked predictions with structural evidence |
+| [PERA_SASA_quantitative_map.png](figures/four_panel_sasa.png) | Four-panel SASA analysis |
+| [PERA_v2.3_SASA_synthesis.md](docs/synthesis.md) | Detailed synthesis document |
 
 ---
 
